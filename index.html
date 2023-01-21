@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="logo.webp">
+    <title>Graph Algorithms Visualizer</title>
+</head>
+<body>
+    <div id = "nav-bar">
+        <div id="heading">
+            Graph <span>Algorithms</span> Visualizer
+        </div>
+
+        <div id="algo">
+            <select name="algorithm" class="dropdown">
+                <option value="None">Select Algorithm</option>
+                <option value="DFS">Depth First Search</option>
+                <option value="BFS">Bredth First Search</option>
+            </select>
+        </div>
+        
+        <div id="speed">
+            <select name="speed" class="dropdown">
+                <option value="fast">Fast</option>
+                <option value="medium">Medium</option>
+                <option value="slow">Slow</option>
+            </select>
+        </div>
+
+        <div id="button">
+            <button class="btn" onclick="reset()">Reset</button>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="sub-container">
+            <div class="box red"></div>
+            <span>Starting Point</span>
+        </div>
+
+        <div class="sub-container">
+            <div class="box green"></div>
+            <span>Final Point</span>
+        </div>
+
+        <div class="sub-container">
+            <div class="box"></div>
+            <span>Free Space</span>
+        </div>
+
+        <div class="sub-container">
+            <div class="box black"></div>
+            <span>Blocked Space</span>
+        </div>
+
+        <div class="sub-container">
+            <div class="box yellow"></div>
+            <span>Explored Path</span>
+        </div>
+    </div>
+
+    <div class="grid"></div>
+
+    <div class="btn-container">
+        <button class="btn run" onclick="run()">Run</button>
+    </div>
+
+    <div id="pop-up">
+        <div id="pop-message">
+            Here you can display your messages.
+        </div>
+        <div>
+            <button class="pop btn" onclick="ok()">OK</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    <script src="algorithms/dfs.js"></script>
+    <script src="algorithms/bfs.js"></script>
+</body>
+</html>

@@ -1,0 +1,157 @@
+#nav-bar{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    height: 55px;
+    align-items: center;
+    font-size: larger;
+}
+
+#heading{
+    margin-left: 10px;
+}
+
+#heading span{
+    color: limegreen;
+}
+
+#algo{
+    margin-left: 250px;
+}
+
+#speed{
+    margin-left: 100px;
+}
+
+#button{
+    margin-left: 550px;
+}
+
+.btn{
+    font-family: 'Nunito', sans-serif;
+    background-color: limegreen;
+    border-color: limegreen;
+    color: white;
+    border-radius: 5px;
+    width: 70px;
+    height: 30px;
+    cursor: pointer;
+    font-size: large;
+}
+
+.dropdown{
+    font-family: 'Nunito', sans-serif;
+    font-size: large;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
+
+option:hover {
+    background-color: coral;
+}
+ 
+.box{
+    width: 30px;
+    height: 30px;
+    border: 1px solid black;
+}
+
+.red{
+    background-color: orangered;
+}
+
+.green{
+    background-color: greenyellow;
+}
+
+.black{
+    background-color: black;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.container{
+    display: flex;
+    font-family: 'Nunito', sans-serif;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+
+.sub-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sub-container span{
+    margin-left: 5px;
+}
+
+.grid{
+    width: 1200px;
+    height: 390px;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.grid-element{
+    display: flex;
+}
+
+.run{
+    background-color: white;
+    border-color: black;
+    color: black;
+}
+
+.run:hover{
+    background-color: black;
+    color: white;
+}
+
+.btn-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+#pop-up{
+    display: none;
+    flex-direction: column;
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    border-width: 3px;
+    border-radius: 10px;
+    border-color: black;
+    border-style: solid;
+    margin-left: 600px;
+    margin-right: 600px;
+    font-size: larger;
+    background-color: white;
+    top: 0px;
+    position: fixed;
+}
+
+.pop{
+    margin-top: 10px;
+    margin-bottom: 7px;
+}
+
+#pop-message{
+    margin-top: 7px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
