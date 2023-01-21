@@ -100,6 +100,7 @@ const run = () =>{
     if(algo == "None") showPopup("Please select an Algorithm first.");
     else if(algo == "DFS") DFS(speed);
     else if(algo == "BFS") BFS(speed);
+    else if(algo == "Astar") AStar(speed);
 }
 
 const ok = () =>{
