@@ -35,7 +35,7 @@ User can add obstacles between a source node and destination node over the empty
 
 <h3 align="center">3. A Star Search Algorithm</h3>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/57593654/146691171-6c8142d9-21f3-497d-af68-995b16f84d0d.jpg" alt="Astar" width="700px">
+<img src="https://user-images.githubusercontent.com/68052449/216099165-2ae4a6bf-9848-4ea7-8702-91dba0de68ff.png" alt="Astar" width="700px">
 </div>
 
 <!-- CONTACT -->
