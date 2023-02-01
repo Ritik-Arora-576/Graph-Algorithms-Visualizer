@@ -19,7 +19,7 @@
 A Web Application featured to provide an interactive interface for visualizing some important graph algorithms, like Breadth First Search, Depth First Search and A* Search Algorithm.
 <br>
 <br>
-User can add obstacles between a source node and destination node over the empty cells to compare the performance of different graph algorithms on random grid patterns.
+User can put obstacles between a source node and destination node over the empty cells to compare the performance of different graph algorithms on random grid patterns.
 <br>
 <br>
 
