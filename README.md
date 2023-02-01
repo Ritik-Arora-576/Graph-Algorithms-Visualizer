@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://simplesnippets.tech/wp-content/uploads/2021/10/graph-ds-structure-example.jpg" alt="Logo" width="200" height="150">
+    <img src="https://simplesnippets.tech/wp-content/uploads/2021/10/graph-ds-structure-example.jpg" alt="Logo" width="250" height="200">
   </a>
 
   <h3 align="center">Graph Algorithm Visualizer</h3>
