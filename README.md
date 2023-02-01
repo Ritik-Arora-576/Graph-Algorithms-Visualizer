@@ -25,7 +25,7 @@ User can add obstacles between a source node and destination node over the empty
 
 <h3 align="center">1. Breadth First Search Algorithm</h3>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/57593654/146690805-131a7f0a-62cf-43eb-b1b7-d57715d4de3c.jpg" alt="BFS" width="700px">
+<img src="https://user-images.githubusercontent.com/68052449/216096276-07a62813-88f2-4333-ac66-c14cb5ef5d21.png" alt="BFS" width="700px">
 </div>
 
 <h3 align="center">2. Depth First Search Algorithm</h3>
