@@ -30,7 +30,7 @@ User can add obstacles between a source node and destination node over the empty
 
 <h3 align="center">2. Depth First Search Algorithm</h3>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/57593654/146691141-6a25cb9c-9d71-4f0b-9f83-65519530ec4b.jpg" alt="DFS" width="700px">
+<img src="https://user-images.githubusercontent.com/68052449/216097583-33761faf-d6ad-4221-9da8-d678c845da0f.png" alt="DFS" width="700px">
 </div>
 
 <h3 align="center">3. A Star Search Algorithm</h3>
