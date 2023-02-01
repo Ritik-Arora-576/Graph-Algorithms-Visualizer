@@ -1,3 +1,3 @@
 # Graph Algorithms Visualizer
 
-![image](https://user-images.githubusercontent.com/68052449/216044290-cfb5b450-13a9-42a4-bfe8-9e7ed1ac5f90.png){width=70 height=50}
+<img src="https://simplesnippets.tech/wp-content/uploads/2021/10/graph-ds-structure-example.jpg" alt="drawing" style="width:70px; height:50px;"/>
