@@ -23,22 +23,20 @@ User can add obstacles between a source node and destination node over the empty
 <br>
 <br>
 
+<h3 align="center">Breadth First Search Algorithm</h3>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/57593654/146690805-131a7f0a-62cf-43eb-b1b7-d57715d4de3c.jpg" alt="BFS" width="700px">
 </div>
 
+<h3 align="center">Depth First Search Algorithm</h3>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/57593654/146691141-6a25cb9c-9d71-4f0b-9f83-65519530ec4b.jpg" alt="BFS" width="700px">
+<img src="https://user-images.githubusercontent.com/57593654/146691141-6a25cb9c-9d71-4f0b-9f83-65519530ec4b.jpg" alt="DFS" width="700px">
 </div>
 
+<h3 align="center">A Star Search Algorithm</h3>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/57593654/146691171-6c8142d9-21f3-497d-af68-995b16f84d0d.jpg" alt="BFS" width="700px">
+<img src="https://user-images.githubusercontent.com/57593654/146691171-6c8142d9-21f3-497d-af68-995b16f84d0d.jpg" alt="Astar" width="700px">
 </div>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/57593654/146691191-a2da2af8-8202-4ad4-8fd2-e4b60644e7fb.jpg" alt="BFS" width="700px">
-</div>
-
 
 <!-- CONTACT -->
 ## Contact
